@@ -491,7 +491,7 @@ box-shadow: 50px 50px 100px 0px rgba(162, 194, 184, 1);
 }
 .product-section .row .upper_vertical_box{
     background-color: #FFF;
-    border: 3px solid #2FE0AA;
+    border: 3.6px solid #2FE0AA;
     border-radius:1rem;
     padding: 1rem;
     margin: 3rem;
@@ -528,7 +528,7 @@ box-shadow: 50px 50px 100px 0px rgba(162, 194, 184, 1);
 }
 .product-section .row .upper_horizontal_box{
     background-color: #FFF;
-    border: 3px solid #2FE0AA;
+    border: 3.6px solid #2FE0AA;
     border-radius:1rem;
     padding: 1rem;
     margin: 3rem;
